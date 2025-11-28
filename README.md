@@ -1,2 +1,5 @@
-# Zomato-Analysis
-This project analyzes Zomato restaurant data to understand customer preferences, restaurant performance, and market trends. Using Python and data visualization tools, the project transforms raw restaurant and rating data into actionable insights that can help food delivery platforms, restaurant owners..
+# Zomato Analysis
+## Project-Objective
+- To analyze Zomato restaurant data to uncover trends in customer preferences, pricing, and restaurant performance.
+To clean, transform, and visualize the dataset for meaningful insights that support data-driven decision-making.
+To create clear dashboards and analytical reports that help stakeholders understand key KPIs and business patterns.
