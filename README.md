@@ -10,4 +10,4 @@ To create clear dashboards and analytical reports that help stakeholders underst
 - Performed exploratory data analysis (EDA) to identify trends in ratings, pricing, cuisines, and city-wise performance.
 - Created visualizations and dashboards to represent key KPIs such as average rating, cost for two, and cuisine popularity.
 - Derived insights and recommendations based on the analysis to support data-driven decision-making.
-- Dashboard Interaction 
+- Dashboard Interaction <a href="https://github.com/Mithu2409/Zomato-Analysis/blob/main/Screenshot%202025-11-28%20173041.png">Power-BI Dashboard</a>
