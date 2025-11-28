@@ -11,3 +11,4 @@ To create clear dashboards and analytical reports that help stakeholders underst
 - Created visualizations and dashboards to represent key KPIs such as average rating, cost for two, and cuisine popularity.
 - Derived insights and recommendations based on the analysis to support data-driven decision-making.
 - Dashboard Interaction <a href="https://github.com/Mithu2409/Zomato-Analysis/blob/main/Screenshot%202025-11-28%20173041.png">Power-BI Dashboard</a>
+- <a href="https://github.com/Mithu2409/Zomato-Analysis/blob/main/Screenshot%202025-11-28%20173129.png">Tableau Dashboard</a>
